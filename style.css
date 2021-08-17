@@ -9,21 +9,34 @@ body{
 button{
     height: 200px;
     width: 200px;
+    border: black 10px solid;
+    margin: 10px;
+    border-radius: 5px;
 }
 button:hover{
     cursor: pointer;
-    opacity: 10%;
+    opacity: 8%;
+    
 }
 #btn_red{
-    background-color: red;
+    background-color:rgb(204, 57, 31);
+    
+
 }
 #btn_blue{
-    background-color: blue;
+    background-color: rgb(78, 78, 238);
+    
+
 }
 #btn_green{
-    background-color: green;
+    background-color: rgb(125, 245, 125);
+   
+
 }
 #btn_yellow{
-    background-color:yellow;
+    background-color:rgb(214, 214, 36);
+    
+
 }
+
 
